@@ -13,7 +13,7 @@
 # - v1.0.0      initial concept                                         (harald)
 
 """
-    tradfri-groupss.py - controlling the Ikea Tradfri smart groups
+    tradfri-groupss.py - controlling the Ikea Tradfri smart groups-
 
     This module requires libcoap with dTLS compiled, at this moment there is no python coap module
     that supports coap with dTLS. see ../bin/README how to compile libcoap with dTLS support
